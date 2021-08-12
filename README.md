@@ -4,8 +4,7 @@ get coordinate information, model and more of your ped and fenced objects linked
 
 part of the code is also the Noms snippet so the credits and thanks to him for that. 
 
-https://gyazo.com/696e2089eccda24cb91f45cfdfeaf2db
+![image](https://user-images.githubusercontent.com/52611202/129239398-a2f5142c-9546-4d20-a2ea-8aaa060f9bf3.png)
+![image](https://user-images.githubusercontent.com/52611202/129239411-55d1a56e-c7fa-48ae-b3d0-4181ffe9de98.png)
 
-https://gyazo.com/40ef87695b66864884822a4c1e461ea8
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:55.937%;"><iframe src="https://streamable.com/e/ai7x3t" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+https://streamable.com/e/ai7x3t
