@@ -85,7 +85,7 @@ Citizen.CreateThread(function()
 			local nearped = getNPC()
 			local veh = GetVehicle()
 
-				Mytext3d(mycoordshin + vector3(0.0, 0.0, 0.9),"X:["..shinx.."] - Y:["..shiny.."] - Z:["..shiny.."] - H:["..shinh.."]",0.52,230)
+				Mytext3d(mycoordshin + vector3(0.0, 0.0, 0.9),"X:["..shinx.."] - Y:["..shiny.."] - Z:["..shinz.."] - H:["..shinh.."]",0.52,230)
 
 				if #(mycoordshin - entityobjcoord)< 1.7 then 
 					local objhash = GetEntityModel(entityobj)
